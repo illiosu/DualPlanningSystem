@@ -4,7 +4,7 @@
       <el-col :span="12" :xs="0"></el-col>
       <el-col :span="12" :xs="24">
         <el-card class="login_form">
-          <h1>黄土高原-高精度土壤湿度平台</h1>
+          <h1>国土空间评价双规划系统</h1>
           <el-form :model="loginForm" ref="loginForms">
             <el-form-item prop="username">
               <el-input :prefix-icon="User" v-model="loginForm.username" clearable placeholder="Username" size="large"></el-input>
